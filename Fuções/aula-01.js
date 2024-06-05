@@ -6,7 +6,6 @@ function teste(nome){
 
 teste("chico"); // aqui eu estou executando a funçõa.
 
-
 // função com dois parametros:
 function cobrancaDeJuros(valor, juros){
     const valorDoAcressimo = (juros / 100) * valor;
