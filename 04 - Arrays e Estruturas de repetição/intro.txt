@@ -1,0 +1,13 @@
+// arrays é uma lista, uma coleção de dados.
+
+// Sintaxe: 
+const alunos = ['posição 0', 'posição 1', 'posição 2', 'posição 3', '....'];
+
+// acessando um aluno:
+console.log(alunos[1]); // vai ser impresso o aluno da posição 1.
+
+// Inserindo valores em um array dinamico/pode assumir qualquer valor:
+const notas = [];
+notas.push(7);
+notas.push(5);
+notas.push(8);
